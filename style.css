@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Madimi+One&family=Noto+Sans+JP:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body {
+    font-family: "Heebo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+table, tr, td{
+    border: 2px black solid;
+    border-collapse: collapse;
+}
+
+.navbar{
+  background-color: black;
+  overflow: hidden;
+}
+
+.navbar a{
+  color: aliceblue;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 13px 13px;
+  float: left;
+}
+
+.navbar a:hover{
+  background-color: aliceblue;
+  color: #222831;
+}
+
+.flexbox{
+  background-color: aqua;
+  align-items: stretch;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.flexbox > div{
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+  background-color: pink;
+}
+
+.footer {
+  position: relative;
+  clear: both;
+  background-color: #222831;
+  padding: 3%;
+  text-align: center;
+  color: aliceblue;
+  margin-top: 10;
+}
