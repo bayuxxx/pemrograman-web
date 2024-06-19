@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T11:29:16.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="H0nyTxe09IpjEYF_R9-s" version="24.5.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-06-19T11:39:03.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lNu0K3CBvND3M6WLH72q" version="24.5.5" type="github" pages="7">
   <diagram name="activity diagram" id="zu1QCBFXsQX0vnKYGu4n">
     <mxGraphModel dx="1050" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2062,7 +2062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j50D72qbZo7ureYx3H-C" name="Halaman-8">
-    <mxGraphModel dx="958" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2254,6 +2254,27 @@
         </mxCell>
         <mxCell id="MaKSE4KVw4CkLzlm_9em-8" value="8. Menu di tambahakan ke dalam keranjang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="138" y="524" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-9" value="9.&amp;nbsp;periksa jumlah total tagihan yang harus dibayar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="573" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-10" value="10.&amp;nbsp;masukkan alamat pengiriman atau meja" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="123" y="646" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-11" value="11. Pilih metoe pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="173" y="722" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-12" value="12. Lakukan Pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="186" y="789" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-13" value="15. Buat Pesanan dan Tampilkan Pesan Sukses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="872" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-15" value="13. Verifikasi Pembayaran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="478" y="676" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MaKSE4KVw4CkLzlm_9em-17" value="14. Token Sukses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="501" y="729" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
